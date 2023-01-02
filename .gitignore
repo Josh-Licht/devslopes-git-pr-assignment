@@ -22,6 +22,7 @@ Desktop.ini
 # Environments
 .env
 .env.local
+.env.production.local
 .venv
 env/
 venv/
